@@ -1,9 +1,29 @@
-# Landing Page Project
+# Project Title
 
-## Instructions
+# Quickstart/Demo
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+# Table of Contents
 
-To get started, open `js/app.js` and start building out the app's functionality
+- [Project Title](#project-title)
+- [Quickstart/Demo](#quickstartdemo)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Contribute](#contribute)
+- [License](#license)
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+# Installation
+[(Back to top)](#table-of-contents)
+
+# Usage
+[(Back to top)](#table-of-contents)
+
+# Development
+[(Back to top)](#table-of-contents)
+
+# Contribute
+[(Back to top)](#table-of-contents)
+
+# License
+[(Back to top)](#table-of-contents)
