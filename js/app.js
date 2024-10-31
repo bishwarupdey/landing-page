@@ -102,8 +102,8 @@ window.addEventListener("scroll", (event) => {
 //Adding a return to top of page button at the bottom of the page with an event listener
 
 //Adding the HTML for the button
-const returnToTop = footer.insertAdjacentHTML('beforebegin', `<button class = "return_to_top" type= "button"> Return to Top</button>`);
-// Adding an even listener to when the button is clicked it scrolls to the top of the page
+const returnToTop = footer.insertAdjacentHTML('beforebegin', `<button class = "return_to_top" type= "button">Return to Top</button>`);
+// Adding an event listener to when the button is clicked it scrolls to the top of the page
 document.querySelector(".return_to_top").addEventListener('click', () => {
     window.scrollTo({
         top: 0,
