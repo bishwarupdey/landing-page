@@ -18,10 +18,12 @@
  * Great to have comments before crucial code sections within the procedure.
 */
 
-/**
- * Define Global Variables
- * 
-*/
+
+//Global Variables
+const navMenu = document.querySelector('.navbar__menu');
+const navList = document.querySelector('#navbar__list');
+const allSections = document.querySelectorAll('.section');
+const footer = document.querySelector('.page__footer');
 
 
 /**
@@ -29,6 +31,7 @@
  * Start Helper Functions
  * 
 */
+
 
 
 
