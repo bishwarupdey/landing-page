@@ -25,14 +25,22 @@ const navList = document.querySelector('#navbar__list');
 const allSections = document.querySelectorAll('.section');
 const footer = document.querySelector('.page__footer');
 
-
 /**
  * End Global Variables
  * Start Helper Functions
  * 
 */
 
+//Function to build the navigation bar
+function buildNaviBar() {
+    for (const section of allSections) {
+        const newLi = document.createElement('li');
+        newLi.innerText = `<a href = "#${section.id}" class = "menu__link">${section.dataset.nav}`;
+        navList.appendChild(newLi);
+    }
 
+    navMenu.appendChild(navList);
+}
 
 
 /**
@@ -42,6 +50,10 @@ const footer = document.querySelector('.page__footer');
 */
 
 // build the nav
+
+//Invoking the buildNaviBar 
+buildNaviBar();
+
 
 
 // Add class 'active' to section when near top of viewport
