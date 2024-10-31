@@ -23,7 +23,7 @@ Creating a Landing Page using HTML, CSS, and mainly JavaScript. This project wil
 
 # Installation
  You can grab the existing files from the green code button on the top right. You can clone or download the entire zip file. 
- Starter code is provided by Udacityg at https://github.com/udacity/cd0428-landing-page/
+ Starter code is provided by Udacity at https://github.com/udacity/cd0428-landing-page/
 
 [(Back to top)](#table-of-contents)
 
