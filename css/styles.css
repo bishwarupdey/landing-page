@@ -68,7 +68,9 @@ section {
     display: flex;
     flex-wrap: wrap;
     margin: 0;
+    /*padding-bottom: 3em; */
     text-align: right;
+    align-items: center;
     justify-content: center;
 }
 
